@@ -3,7 +3,7 @@
 <a href="mailto:migueljativa4@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 
-- :computer: I'm a Computer Science graduate 
+- :computer: I'm a Computer Science and Engineering graduate 
 - 👀 I’m interested in Machine Learning and Data Science
 - 💬 Feel free to reach out to me 
 <!--- 

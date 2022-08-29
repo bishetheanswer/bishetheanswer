@@ -6,10 +6,11 @@
 - :computer: I'm a Computer Science and Engineering graduate 
 - 👀 I’m interested in Machine Learning and Data Science
 - 💬 Feel free to reach out to me 
-- 
-<p align="center">
+
+
+
 ![Miguel Jativa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishetheanswer&count_private=true&theme=radical)
-</p>
+
 
 <!--- 
 - 🌱 I’m currently learning ...

@@ -10,6 +10,10 @@
 ![Miguel Jativa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishetheanswer&count_private=true&theme=radical)
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bishetheanswer&count_private=true&theme=radical" />
+</a>
+
 <!--- 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...

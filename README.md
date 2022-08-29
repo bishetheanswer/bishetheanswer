@@ -7,8 +7,7 @@
 - 👀 I’m interested in Machine Learning and Data Science
 - 💬 Feel free to reach out to me 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishetheanswer&show_icons=true)
+![Miguel Jativa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishetheanswer&count_private=true)
 
 
 <!--- 

@@ -6,6 +6,11 @@
 - :computer: I'm a Computer Science and Engineering graduate 
 - 👀 I’m interested in Machine Learning and Data Science
 - 💬 Feel free to reach out to me 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishetheanswer&show_icons=true)
+
+
 <!--- 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
